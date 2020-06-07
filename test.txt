@@ -1,0 +1,25 @@
+http m3u8,#genre#
+ch5 m3u8,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+ch8 m3u8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+chU m3u8,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8 
+
+豆号后有空格,#genre#
+ch5 m3u8, https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+ch8 m3u8, https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+chU m3u8, https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8 
+
+mitv ts,#genre#
+ch8 mitv,mitv://fccseuro.pvbox.live:18912/5bcd6bdb0006c2461b6927f016bbc4a2.ts
+chU mitv,mitv://fccseuro.pvbox.live:18912/5bcd6bdf00017fad73c955c851576b2d.ts
+ch5 mitv,mitv://fccseuro.pvbox.live:18912/5b140a14000d4ee113a427905161e412.ts
+ch88 mitv,mitv://fccseuro.pvbox.live:18912/5e7ae8970003cef5936942cbd4d25584.ts 
+ch89 mitv,mitv://fccseuro.pvbox.live:18912/5e7ae899000224006541de16feae3ed8.ts
+
+其他 http ts,#genre#
+Asia Food Network,http://185.93.2.35:12012/live/359111068247FFA1/MPWOsuAFOtOWF0EbcbiHd0YdVYqFbMkSxUtVrftKP-MZn8nvfE1A031QE38lDJcm/03DC29C076F247E9/919996.ts
+BBC,http://185.93.2.35:12012/live/359111068247FFA1/y0U3YArEHn1GU4rGWOjHTfI5PQtPB4Ssbouv2XvA6BpljD-V8UiJJvQbGnI4XmEb/A285396723054D82/499647.ts
+BBC Earth,http://185.93.2.35:12012/live/359111068247FFA1/VpWmRqFVfLAZo-QYtkIfIfuLah83ga_4I9cW7nTFjVjQs_SfTW9GJsE85Q6zRuh/8B1BF877340042A1/75441.ts
+BBC Lifestyle,http://185.93.2.35:12012/live/359111068247FFA1/iEA-RPF1AfCgWKDRftOwckUPP5EWaFZoQDTpicxqVkC0vKPuXm6-vXR1E1jLgwJG/7485E1247D964CCA/873047.ts
+Bloomberg,http://185.93.2.35:12012/live/359111068247FFA1/SKBruUymzyojEEMZzTy5AqBwu3x9Mw51gjy719107qNNNUtHwmI-uWT-8hcFEXlQ/003F68F3712541AB/876650.ts
+
+必须有分类
