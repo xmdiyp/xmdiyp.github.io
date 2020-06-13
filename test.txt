@@ -14,6 +14,8 @@ chU mitv,mitv://fccseuro.pvbox.live:18912/5bcd6bdf00017fad73c955c851576b2d.ts
 ch5 mitv,mitv://fccseuro.pvbox.live:18912/5b140a14000d4ee113a427905161e412.ts
 ch88 mitv,mitv://fccseuro.pvbox.live:18912/5e7ae8970003cef5936942cbd4d25584.ts 
 ch89 mitv,mitv://fccseuro.pvbox.live:18912/5e7ae899000224006541de16feae3ed8.ts
+Teddy Ch 88HD,mitv://190.2.146.92:18912/5e7ae8970003cef5936942cbd4d25584.ts
+Teddy Ch 89HD,mitv://190.2.146.92:18912/5e7ae899000224006541de16feae3ed8.ts
 
 其他 http ts,#genre#
 Asia Food Network,http://185.93.2.35:12012/live/359111068247FFA1/MPWOsuAFOtOWF0EbcbiHd0YdVYqFbMkSxUtVrftKP-MZn8nvfE1A031QE38lDJcm/03DC29C076F247E9/919996.ts
