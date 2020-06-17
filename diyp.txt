@@ -1,18 +1,18 @@
 SGP/MY,#genre#
 Channel 5,P2p://190.2.146.92:18912/5b140a14000d4ee13442842379c13554.ts 
-#,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+Ch5 m3u8,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 Channel 8,P2p://190.2.146.92:18912/5bcd6bdb0006c246ff2fe6619637c6ce.ts 
-#,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+Ch8 m3u8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 Channel U,P2p://190.2.146.92:18912/5bcd6bdf00017fadea19f7110df3e721.ts 
-#,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+ChU m3u8,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 ﻿Channel News Asia,P2p://190.2.146.92:18912/5b20e3af00008deea2f7ce34f2229c1a.ts 
-#,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-SURIA,P2p://190.2.146.92:18912/5b20e3ae000daac38fc7b1d740353d2d.ts
-#,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+CNA m3u8,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+Suria,P2p://190.2.146.92:18912/5b20e3ae000daac38fc7b1d740353d2d.ts
+Suria m3u8,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 வசந்தம்,https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 OKTO on 5,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 Racing Ch 88HD,P2p://190.2.146.92:18912/5e7ae8970003cef5936942cbd4d25584.ts 
-Racing Ch 89HD,P2p://190.2.146.92:18912/5e7ae899000224006541de16feae3ed8.ts 
+Racing Ch 89HD,P2p://190.2.146.92:18912/5e7ae899000224006541de16feae3ed8.ts CH
 
 HK/Macau,#genre# 
 凤凰香港,http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
