@@ -101,6 +101,5 @@ BBC,http://185.93.2.35:12012/live/359111068247FFA1/y0U3YArEHn1GU4rGWOjHTfI5PQtPB
 BBC Earth,http://185.93.2.35:12012/live/359111068247FFA1/VpWmRqFVfLAZo-QYtkIfIfuLah83ga_4I9cW7nTFjVjQs_SfTW9GJsE85Q6zRuh/8B1BF877340042A1/75441.ts
 BBC Lifestyle,http://185.93.2.35:12012/live/359111068247FFA1/iEA-RPF1AfCgWKDRftOwckUPP5EWaFZoQDTpicxqVkC0vKPuXm6-vXR1E1jLgwJG/7485E1247D964CCA/873047.ts
 Bloomberg,http://185.93.2.35:12012/live/359111068247FFA1/SKBruUymzyojEEMZzTy5AqBwu3x9Mw51gjy719107qNNNUtHwmI-uWT-8hcFEXlQ/003F68F3712541AB/876650.ts
-
-BBC Lifestyle,https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
-BBC Lifestyle,https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+BBC Lifestyle1,https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
+BBC Lifestyle2,https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
